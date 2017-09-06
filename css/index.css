@@ -438,7 +438,7 @@ body{
 .item .name{
 	width:110%;
 	left:calc(50% - 71px);
-	top:-100px;
+	bottom:140px;
 	text-align: center;
 }
 .item div.active{
